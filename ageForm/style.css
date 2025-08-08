@@ -1,0 +1,13 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#mylabel{
+    font-size:  3em;
+    margin-bottom: 6px;
+}
+
+button{
+    margin-top: 10px;
+}
