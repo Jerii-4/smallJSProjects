@@ -24,8 +24,8 @@ else{
     }else if(guess>ans){
         window.alert("high")
     }else{
-      window.alert("congrats")
-      window.alert(`it took you ${attempts}`)
+      window.alert(`congrats, it took you ${attempts}`)
+     
       running=false
     }
 }
